@@ -1,0 +1,8 @@
+{
+  "projectName": "bootstrap",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "44a9c21e"
+}

@@ -1,36 +1,33 @@
 <template>
-  <div class="container">
+  <div class="container my-5">
     <div class="row">
       <div class="col-md-4">
         <div class="card">
-          <img src="https://images.pexels.com/photos/5555754/pexels-photo-5555754.jpeg?auto=compress&cs=tinysrgb&w=300" class="card-img-top" alt="#">
+          <img src="https://media.istockphoto.com/id/1281277867/fr/photo/italien-emporter-la-nourriture.jpg?b=1&s=612x612&w=0&k=20&c=2rzwgOuqyCwnBrfjPSrvfcmvHxM_20KuKNYvd4Gv8mw=" class="card-img-top" alt="#">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Panini</h5>
+            <p class="card-text">Sandwich italien traditionnel, généralement préparé avec un pain blanc allongé. Le pain est garni d'ingrédients variés et parfois des légumes grillés.</p>
+            <a href="#" class="btn btn-primary">Commandez</a>
           </div>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img src="https://images.pexels.com/photos/5837103/pexels-photo-5837103.jpeg?auto=compress&cs=tinysrgb&w=100" class="card-img-top" alt="#">
+          <img src="https://images.pexels.com/photos/1556698/pexels-photo-1556698.jpeg?auto=compress&cs=tinysrgb&w=600" class="card-img-top" alt="#">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Burger</h5>
+            <p class="card-text">Sandwich emblématique de la cuisine américaine, composé d'un pain rond, généralement brioché, qui entoure une galette de viande hachée grillée.</p>
+            <a href="#" class="btn btn-primary">Commandez</a>
           </div>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img src="https://images.pexels.com/photos/580612/pexels-photo-580612.jpeg?auto=compress&cs=tinysrgb&w=100" class="card-img-top" alt="#">
+          <img src="https://images.pexels.com/photos/8448321/pexels-photo-8448321.jpeg?auto=compress&cs=tinysrgb&w=600" class="card-img-top" alt="#">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Tortilla</h5>
+            <p class="card-text">Galette de base de la cuisine mexicaine, souvent à base de maïs ou de blé. Elle est fine, ronde et souple, ce qui la rend polyvalente.</p>
+            <a href="#" class="btn btn-primary">Commandez</a>
           </div>
         </div>
       </div>
